@@ -109,6 +109,11 @@ Intuitive expense entry with smart splitting options and category icons.
    ```bash
    npm run build
    ```
+   ## 🐳 Docker Deployment
+The application includes Docker support for easy deployment:
+```bash
+docker-compose up --build
+```
 
 ## 🚀 Deployment
 
