@@ -1,9 +1,9 @@
 
-# 💰 SplitEasy - Advanced Trip Expense Manager
+#  SplitEasy - Advanced Trip Expense Manager
 
 A modern, full-featured expense management platform built with React, TypeScript, and TailwindCSS. Think Splitwise, but better - with delightful UX, powerful logic, and clean modular code.
 
-## ✨ Features
+##  Features
 
 ### 🔹 Core Functionality
 - **Smart Expense Splitting** - Equal, percentage, and custom splits
@@ -32,7 +32,7 @@ A modern, full-featured expense management platform built with React, TypeScript
 - Push notification ready
 - Responsive design
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** with TypeScript
@@ -48,7 +48,7 @@ A modern, full-featured expense management platform built with React, TypeScript
 - **Supabase** for authentication
 - **OpenAI API** for chatbot
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 src/
@@ -85,13 +85,13 @@ src/
    ```bash
    npm run build
    ```
-   ## 🐳 Docker Deployment
+   ##  Docker Deployment
 The application includes Docker support for easy deployment:
 ```bash
 docker-compose up --build
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Frontend (Vercel/Netlify)
 ```bash
@@ -137,11 +137,11 @@ npm run build
 - [ ] API for third-party integrations
 
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💬 Support
+##  Support
 
 - 📧 Email: yeswanthreddynaidu@gmail.com
 
